@@ -13,3 +13,8 @@ function div(a,b){
     return (a/b);
 }
 console.log(div(10,2));
+
+function multiply(a,b){
+    return (a*b);
+}
+console.log(multiply(10,2));
