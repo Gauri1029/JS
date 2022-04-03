@@ -8,3 +8,8 @@ function sub(a,b){
     return (a-b);
 }
 console.log(sub(10,2));
+
+function div(a,b){
+    return (a/b);
+}
+console.log(div(10,2));
